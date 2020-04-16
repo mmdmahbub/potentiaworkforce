@@ -27,10 +27,6 @@ a , a:hover{
 	display: table-cell;
 	vertical-align: middle;
 }
-.header {
-	float: left;
-	width: 100%;
-}
 .display_table_cell.width_10 {
 	width: 10%;
 }
@@ -102,16 +98,12 @@ a , a:hover{
 	letter-spacing: 1px;
 	color: #093363;
 }
-.inner-menu li:hover  {
-	background: #F4F6F7
-}
 .inner-menu li a {
 	font-size: 14px;
 	display: block;
 	text-align: left;
 	font-family: "Roboto";
-	color: #33333;
-	
+	color: #33333
 }
 .inner-menu li {
 	margin-right: 0;
@@ -184,81 +176,3 @@ background: #093363 !important;
 	text-align: center
 }
 
-.stats_icon {
-
-}
-.stats_icon i {
-
-}
-@media only screen and (max-width:767px){
-	.display_table_cell.width_10 {
-		width: 100% ;
-		display: block !important;
-	}
-	.display_table_cell.width_90 {
-	display: none;
-	width: 100%;
-}
-.logo {
-	position: relative;
-}
-.mobile_menu_bar {
-	float: right;
-	display: inline-block;
-	position: absolute;
-	right: 10px;
-	top: 50%;
-	font-size: 21px;
-}
-
-.main_menu ul li {
-  display: block;
-  width: 100%;
-  text-align: left;
-  margin-right: 0;
-}
-.main_menu ul li a:after {
-  height: 0px;
-}
-
-.main_menu ul li {
-  display: block;
-  width: 100%;
-  text-align: left;
-  height: inherit;
-  margin-right: 0;
-}
-.main_menu ul li a:after {
-  height: 0px;
-}
-li {
-}
-.inner-menu {
-  width: 100%;
-  position: static;
-  float: left;
-  border-top: 0px;
-}
-.desktop_caret {
-  display: none;
-}
-.contact_btn a {
-	background: inherit;
-	color: #333 !important;
-	padding: 0;
-	font-family: "Teko" !important;
-	font-weight: ;
-}
-.contact_btn a:hover {
-	background: inherit !important;
-
-}
-.hero_area.devider .display_table_cell {
-	height: 400px;
-	text-align: center;
-}
-.hero_text {
-	line-height: 24px;
-	font-size: 16px;
-}
-}

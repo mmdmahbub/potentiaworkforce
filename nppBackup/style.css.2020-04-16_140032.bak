@@ -166,6 +166,7 @@ background: #093363 !important;
 	background: url("assets/images/hp-banner-blue-wash_.jpg");
 	background-repeat: no-repeat;
 	background-position: center center;
+	height: 500px;
 }
  .hero_text {
 	transition: none 0s ease 0s;
@@ -180,16 +181,11 @@ background: #093363 !important;
 	color: #fff;
 }
 .hero_area.devider .display_table_cell {
-	height: 500px;
+	
 	text-align: center
 }
 
-.stats_icon {
 
-}
-.stats_icon i {
-
-}
 @media only screen and (max-width:767px){
 	.display_table_cell.width_10 {
 		width: 100% ;
@@ -252,13 +248,5 @@ li {
 .contact_btn a:hover {
 	background: inherit !important;
 
-}
-.hero_area.devider .display_table_cell {
-	height: 400px;
-	text-align: center;
-}
-.hero_text {
-	line-height: 24px;
-	font-size: 16px;
 }
 }

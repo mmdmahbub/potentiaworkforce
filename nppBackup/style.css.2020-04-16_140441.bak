@@ -184,12 +184,7 @@ background: #093363 !important;
 	text-align: center
 }
 
-.stats_icon {
 
-}
-.stats_icon i {
-
-}
 @media only screen and (max-width:767px){
 	.display_table_cell.width_10 {
 		width: 100% ;
@@ -258,7 +253,15 @@ li {
 	text-align: center;
 }
 .hero_text {
+	transition: none 0s ease 0s;
+	text-align: inherit;
 	line-height: 24px;
+	border-width: 0px;
+	margin: 0px;
+	padding: 0px;
+	letter-spacing: 0px;
+	font-weight: 700;
 	font-size: 16px;
+	color: #fff;
 }
 }

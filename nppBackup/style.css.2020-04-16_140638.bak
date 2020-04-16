@@ -185,10 +185,32 @@ background: #093363 !important;
 }
 
 .stats_icon {
-
+	height: 82px;
+	width: 82px;
+	line-height: 47px;
+	border-color: #74c5da;
+	border-width: 2px;
+	border-style: solid;
+	background-color: #093363;
+	box-sizing: content-box;
+	border-radius: 50%;
 }
-.stats_icon i {
-
+.stats_icon I {
+	border-color: #093363;
+	border-width: 6px;
+	background-color: #28a6e0;
+	box-sizing: content-box;
+	height: 70px;
+	width: 70px;
+	line-height: 70px;
+	border-radius: 50%;
+	position: relative;
+	top: auto;
+	left: auto;
+	margin: 0;
+	border-radius: 50%;
+	color: #ffffff;
+	font-size: 35px;
 }
 @media only screen and (max-width:767px){
 	.display_table_cell.width_10 {

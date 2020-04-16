@@ -185,10 +185,15 @@ background: #093363 !important;
 }
 
 .stats_icon {
-
-}
-.stats_icon i {
-
+	height: 82px;
+	width: 82px;
+	line-height: 47px;
+	border-color: #74c5da;
+	border-width: 2px;
+	border-style: solid;
+	background-color: #093363;
+	box-sizing: content-box;
+	border-radius: 50%;
 }
 @media only screen and (max-width:767px){
 	.display_table_cell.width_10 {
