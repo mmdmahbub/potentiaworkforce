@@ -13,7 +13,15 @@ $(document).ready(function(){
 	
 });
 
-
+//Magic Popup Image gallery 
+$(document).ready(function(){
+	$(".gellary").magnificPopup({
+	  type: 'image',
+	  gallery: {
+		  enabled: true
+	  }
+  });
+});
 
 //Sticky navbar script
 $(window).scroll(function() {

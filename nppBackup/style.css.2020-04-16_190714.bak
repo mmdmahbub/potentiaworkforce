@@ -356,12 +356,6 @@ background: #093363 !important;
 	z-index: 999;
 	border-bottom: 1px solid #eee;
 }
-.footer_menu li:last-child a::after {
-	content: "";
-}
-.footer_menu li a:hover {
-	color: #333 
-}
 @media only screen and (max-width:767px){
 	.display_table_cell.width_10 {
 		width: 100% ;

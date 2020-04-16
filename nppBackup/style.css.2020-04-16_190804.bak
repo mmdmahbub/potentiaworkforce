@@ -360,7 +360,7 @@ background: #093363 !important;
 	content: "";
 }
 .footer_menu li a:hover {
-	color: #333 
+	colro: #333
 }
 @media only screen and (max-width:767px){
 	.display_table_cell.width_10 {

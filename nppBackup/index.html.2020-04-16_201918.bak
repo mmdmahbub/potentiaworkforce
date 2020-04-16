@@ -37,7 +37,7 @@
 						<ul>
 							<li class="active_menu"><a href="">Home</a></li>
 							<li class="slide">
-								<a href="about-potentia.html">Abput Potentia <span class="desktop_caret"><i class="fa fa-angle-down"></i></span></a>
+								<a href="#test">Abput Potentia <span class="desktop_caret"><i class="fa fa-angle-down"></i></span></a>
 								<ul class="inner-menu">
 									<li><a href="about-potentia.html#core-values">Core Values</a></li>
 									<li><a href="about-potentia.html#potentia-difference">The Potentia Difference</a></li>

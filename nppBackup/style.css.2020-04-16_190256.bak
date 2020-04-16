@@ -150,7 +150,7 @@ a , a:hover{
 
 .contact_btn a {
 	background: #28a6e0;
-	padding: 12px 30px;
+	padding: 10px 30px;
 	border-radius: 25px;
 	x: ;
 	color: #fff !important;
@@ -355,12 +355,6 @@ background: #093363 !important;
 	top: 0;
 	z-index: 999;
 	border-bottom: 1px solid #eee;
-}
-.footer_menu li:last-child a::after {
-	content: "";
-}
-.footer_menu li a:hover {
-	color: #333 
 }
 @media only screen and (max-width:767px){
 	.display_table_cell.width_10 {

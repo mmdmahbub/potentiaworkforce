@@ -150,7 +150,7 @@ a , a:hover{
 
 .contact_btn a {
 	background: #28a6e0;
-	padding: 12px 30px;
+	padding: 10px 30px;
 	border-radius: 25px;
 	x: ;
 	color: #fff !important;
@@ -345,23 +345,6 @@ background: #093363 !important;
 .copyright_social .fa-linkedin {
 	background: #0077b5
 }
-.copyright_text {
-	color: rgba(40,166,224,0.77);
-}
-.header.sticky {
-	position: fixed;
-	background: #fff;
-	left: 0;
-	top: 0;
-	z-index: 999;
-	border-bottom: 1px solid #eee;
-}
-.footer_menu li:last-child a::after {
-	content: "";
-}
-.footer_menu li a:hover {
-	color: #333 
-}
 @media only screen and (max-width:767px){
 	.display_table_cell.width_10 {
 		width: 100% ;
@@ -435,18 +418,5 @@ li {
 }
 .display_table_cell.width_90_f {
 	display: block;
-}
-.footer_menu {
-	text-align: center;
-	width: 100%;
-	margin-top: 20px;
-}
-.benfit_inisde {
-	margin-top: 30px;
-}
-.stats_header {
-	float: left;
-	width: 100%;
-	margin-bottom: 15px;
 }
 }

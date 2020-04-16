@@ -6,7 +6,6 @@
 	<title>Potentia</title>
     <link rel="icon" href="Fevicon.png">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/animate.css">
     <link rel="stylesheet" href="assets/css/font-awesome.min.css">
 	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&family=Teko:wght@300;400;500;600;700&display=swap" rel="stylesheet"> 
     <link rel="stylesheet" href="style.css">
@@ -36,8 +35,8 @@
 					<nav class="main_menu">
 						<ul>
 							<li class="active_menu"><a href="">Home</a></li>
-							<li class="slide">
-								<a href="about-potentia.html">Abput Potentia <span class="desktop_caret"><i class="fa fa-angle-down"></i></span></a>
+							<li>
+								<a href="#test">Abput Potentia <span class="desktop_caret"><i class="fa fa-angle-down"></i></span></a>
 								<ul class="inner-menu">
 									<li><a href="about-potentia.html#core-values">Core Values</a></li>
 									<li><a href="about-potentia.html#potentia-difference">The Potentia Difference</a></li>
@@ -168,7 +167,7 @@
 
 		</div>
 	</div>
-	<div class="benifit_area devider" >
+	<div class="benifit_area devider" id="test">
 		<div class="cs_container">
 			<h1 class="big_header">Potentia Benefits</h1>
 			
@@ -234,7 +233,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="conpyright_area devider" >
+	<div class="conpyright_area devider">
 		<div class="cs_container">
 			<div class="extra_padding">
 					<div class="col-md-6">
@@ -255,12 +254,10 @@
 		</div>
 	</div>
 
-   <!---- Javascript(jquery) CDN --->
-   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+   <script type="text/javascript" src="assets/js/lib/jquery.min.js"  ></script>
    <script type="text/javascript" src="assets/js/bootstrap.min.js"  ></script>
     <script src="https://use.fontawesome.com/98956dc61d.js"></script>
-<!---- Wow js Script ---->
-   <script type="text/javascript" src="assets/js/wow.min.js"  ></script>
+
 	<script type="text/javascript" src="assets/js/custom.js"  ></script>
 
 
