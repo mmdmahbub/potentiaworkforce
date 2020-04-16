@@ -5,3 +5,86 @@ body {
     font-family: 'Roboto', sans-serif;
 
 }
+a , a:hover{
+	text-decoration : none;
+}
+.devider {
+	width: 100%;
+	float:left;
+	overflow: hidden;
+}
+.cs_container {
+	float: left;
+	width: 100%;
+	padding: 0px 30px;
+	display: table;
+}
+.extra_padding {
+	padding-right: 2%;
+	padding-left: 2%;
+}
+.display_table_cell {
+	display: table-cell;
+}
+.display_table_cell.width_10 {
+	width: 10%;
+}
+.display_table_cell.width_90 {
+	width: 90%;
+	text-align: right;
+}
+.mobile_menu_bar {
+	display: none;
+}
+.top_header.devider {
+	text-align: right;
+	padding: 12px 0px;
+	border: 1px solid #ddd;
+}
+.top_text {
+	font-size: 13px;
+	font-family: "Roboto";
+}
+.logo {
+	margin: 25px 0px;
+}
+.logo img {
+	width: 170px;
+}
+.logo img {
+	width: 170px;
+}
+.main_menu ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.main_menu li {
+	display: inline-block;
+	margin-right: 30px;
+}
+.inner-menu {
+	display: none
+}
+.main_menu li a {
+	font-size: 22px;
+	font-family: 'Teko';
+	letter-spacing: 1px;
+	color: #093363;
+}
+.main_menu li a i {
+	margin-left: 6px;
+}
+.contact_btn {
+	margin: 0px !important;
+}
+.contact_btn a {
+	background: #333;
+	padding: 10px 30px;
+	border-radius: 25px;
+	x: ;
+	color: #fff !important;
+	font-family: "Roboto" !important;
+	font-weight: 600;
+	font-size: 16px !important;
+}
