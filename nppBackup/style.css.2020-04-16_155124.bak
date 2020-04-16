@@ -127,7 +127,7 @@ a , a:hover{
 .active_menu a {
 	color: #28a6e0 !important;
 }
-.active_menu a::after, .main_menu  li:hover a::after {
+.active_menu a::after, li:hover a::after {
 	position: absolute;
 	left: 0;
 	width: 100%;
@@ -225,125 +225,6 @@ background: #093363 !important;
 	margin-top: 10px;
 	display: block;
 	font-weight: ;
-}
-
-.main_btn {
-	display: inline-block;
-	padding: 13px 30px;
-	background: #28a6e0;
-	margin: 50px 0px;
-	color: #fff;
-	border-radius: 25px;
-	font-weight: 600;
-	letter-spacing: 1px;
-	text-transform: uppercase;
-}
-.main_btn:hover {
-	background: #333;
-	color: #fff;
-}
-.benifit_area.devider {
-	background: #093363;
-	color: #fff;
-	padding: 70px 0px;
-}
-.big_header {
-	text-align: center;
-	font-size: 55px;
-	font-weight: 400;
-	font-family: "Teko";
-	margin-bottom: 30px;
-	margin-top: 0;
-}
-.benfit_inisde h2 {
-	font-size: 30px;
-	font-family: "teko";
-	margin-top: 0px;
-	margin-bottom: 30px;
-}
-.benfit_inisde ul {
-	list-style: none;
-	padding: 0;
-	margin: 0;
-}
-.benfit_inisde li {
-	margin-bottom: 10px;
-	line-height: 22px;
-}
-.benfit_inisde ul li i {
-	padding: 5px 9px;
-	background: #03a9f4;
-	color: #fff;
-	border-radius: 50%;
-	font-weight: 700;
-	float: left;
-	margin-right: 10px;
-}
-.benfit_inisde li {
-	margin-bottom: 10px;
-}
-.display_table_cell.width_90_f {
-	width: 90%;
-}
-.display_table_cell.width_10_f {
-	width: 10%;
-}
-
-.display_table_cell.width_10_f {
-  width: 10%;
-}
-.display_table_cell.width_90_f {
-  width: 90%;
-}
-.footer_menu {
-  text-align: right;
-}
-.footer_menu ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-.footer_menu ul li {
-  display: inline-block;
-}
-.footer_menu ul li a {
-  font-size: 16px;
-  color: #666;
-  position: relative;
-  padding-right: 15px;
-}
-.footer_menu ul li a:after {
-  position: absolute;
-  content: "|";
-  padding: ;
-  padding: 0px 5px;
-}
-.footer_area.devider {
-	padding: 45px 0px;
-}
-.conpyright_area.devider {
-	padding: 45px 0px;
-	background: #f4f6f7;
-}
-
-.copyright_social {
-	text-align: right
-}
-.copyright_social i {
-	font-size: 20px;
-	padding: 7px 10px;
-	border-radius: 5px;
-	color: #fff;
-	margin-right:10px;
-}
-.copyright_social .fa-facebook {
-	background: #3b5998
-}
-.copyright_social .fa-youtube {
-	background: #cd201f
-}
-.copyright_social .fa-linkedin {
-	background: #0077b5
 }
 @media only screen and (max-width:767px){
 	.display_table_cell.width_10 {

@@ -333,8 +333,7 @@ background: #093363 !important;
 	font-size: 20px;
 	padding: 7px 10px;
 	border-radius: 5px;
-	color: #fff;
-	margin-right:10px;
+	color: #fff
 }
 .copyright_social .fa-facebook {
 	background: #3b5998

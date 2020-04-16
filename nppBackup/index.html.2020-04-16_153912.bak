@@ -89,7 +89,7 @@
 	<div class="stats_area devider">
 		<div class="cs_container">
 			<div class="row">
-				<div class="col-md-4 col-md-offset-2">
+				<div class="col-md-3">
 					<a href="">
 						<div class="stats_inside">
 							<div class="stats_header">
@@ -100,13 +100,12 @@
 								Potentia coaches leading employers to <br/>
 								leverage autistic workers and programs  <br/>
 								successfully.<br/>
-								
+								<a href="">Learn More</a>
 							</div>
-							<a href="">Learn More</a>
 						</div>
 					</a>
 				</div>
-				<div class="col-md-4">
+				<div class="col-md-3">
 					<a href="">
 						<div class="stats_inside">
 							<div class="stats_header">
@@ -117,15 +116,14 @@
 								Potentia supports organizations and
 								individuals working on the leading-edge
 								of today’s most exciting IT trends.
-								
+								<a href="">Learn More</a>
 							</div>
-							<a href="">Learn More</a>
 						</div>
 					</a>
 				</div>
 			</div>
-			<div class="row" style="margin-top: 50px;">
-				<div class="col-md-4 col-md-offset-2">
+			<div class="row">
+				<div class="col-md-3">
 					<a href="">
 						<div class="stats_inside">
 							<div class="stats_header">
@@ -136,13 +134,12 @@
 								Employers utilizing autistic workers
 								report lower turnover, higher productivity
 								and increased innovation.
-								
+								<a href="">Learn More</a>
 							</div>
-							<a href="">Learn More</a>
 						</div>
 					</a>
 				</div>
-				<div class="col-md-4">
+				<div class="col-md-3">
 					<a href="">
 						<div class="stats_inside">
 							<div class="stats_header">
@@ -153,9 +150,8 @@
 								Potentia was founded on principles of
 								Innovation, Inspiration, Inclusion and
 								Integrity.
-								
+								<a href="">Learn More</a>
 							</div>
-							<a href="">Learn More</a>
 						</div>
 					</a>
 				</div>
@@ -171,7 +167,7 @@
 		<div class="cs_container">
 			<h1 class="big_header">Potentia Benefits</h1>
 			
-			<div class="col-md-4 col-md-offset-2">
+			<div class="col-md-4">
 				<div class="benfit_inisde">
 					<h2>Employer Impact</h2>
 					<ul>
@@ -192,7 +188,7 @@
 					<ul>
 						<li><i class="fa fa-angle-right"></i>Improved health and self-esteem among fast growing population</li>
 						<li><i class="fa fa-angle-right"></i> Greater independence placing less burden on families</li>
-						<li><i class="fa fa-angle-right"></i> Moves talented workers from reliance on support services to contributing taxpayers</li>
+						<li"><i class="fa fa-angle-right"></i> Moves talented workers from reliance on support services to contributing taxpayers</li>
 					</ul>
 				</div>
 			</div>
@@ -200,56 +196,50 @@
 	</div>
 	<div class="footer_area devider">
 		<div class="cs_container">
-			<div class="extra_padding">
-				<div class="display_table_cell width_10_f">
-					<div class="footer_logo">
-						<a href=""><img src="assets/images/Potentia-100.png" alt="" /></a>
-					</div>
+			<div class="display_table_cell">
+				<div class="footer_logo">
+					<img src="assets/images/Potentia-100.png" alt="" />
 				</div>
-				<div class="display_table_cell width_90_f">
-					<div class="footer_menu">
-						<ul>
-							<li ><a href="">Home</a></li>
-							<li>
-								<a href="">Abput Potentia</a>
-							</li>
-							<li>
-								<a href="">Potentia STARS</a>
-							</li>
-							<li>
-								<a href="">Potentia Projects</a>
-								
-							</li>
-							<li>
-								<a href="">Search Careers</a>
-							</li>
-							<li>
-								<a href="">Media </a>
-							</li>
-							<li class=""><a href="">Contact</a> </li>
-						</ul>
-					</div>
+			</div>
+			<div class="display_table_cell">
+				<div class="footer_menu">
+					<ul>
+						<li ><a href="">Home</a></li>
+						<li>
+							<a href="">Abput Potentia</a>
+						</li>
+						<li>
+							<a href="">Potentia STARS</a>
+						</li>
+						<li>
+							<a href="">Potentia Projects</a>
+							
+						</li>
+						<li>
+							<a href="">Search Careers</a>
+						</li>
+						<li>
+							<a href="">Media </a>
+						</li>
+						<li class=""><a href="">Contact</a> </li>
+					</ul>
 				</div>
 			</div>
 		</div>
 	</div>
 	<div class="conpyright_area devider">
 		<div class="cs_container">
-			<div class="extra_padding">
-					<div class="col-md-6">
-							<div class="copyright_text">
-							Copyright  &copy;  2020 P0tentia   |   All Rights Reserved   |   Powered by Potentia	
-						</div>
-					</div>
-					<div class="col-md-6">
-						<div class="copyright_social">
-						<a href=""><i class="fa fa-linkedin"></i></a>
-						<a href=""><i class="fa fa-facebook"></i></a>
-						<a href=""><i class="fa fa-youtube"></i></a>
-					</div>
-					</div>
-					
-				
+			<div class="display_table_cell">
+				<div class="copyright_text">
+					Copyright  &copy;  2020 P0tentia   |   All Rights Reserved   |   Powered by Potentia	
+				</div>
+			</div>
+			<div class="display_table_cell">
+				<div class="copyright_social">
+					<i class="fa fa-linkedin"></i>
+					<i class="fa fa-facebook"></i>
+					<i class="fa fa-youtube"></i>
+				</div>
 			</div>
 		</div>
 	</div>

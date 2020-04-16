@@ -236,19 +236,16 @@
 	<div class="conpyright_area devider">
 		<div class="cs_container">
 			<div class="extra_padding">
-					<div class="col-md-6">
-							<div class="copyright_text">
-							Copyright  &copy;  2020 P0tentia   |   All Rights Reserved   |   Powered by Potentia	
-						</div>
+				<div class="">
+					<div class="copyright_text">
+						Copyright  &copy;  2020 P0tentia   |   All Rights Reserved   |   Powered by Potentia	
 					</div>
-					<div class="col-md-6">
-						<div class="copyright_social">
-						<a href=""><i class="fa fa-linkedin"></i></a>
-						<a href=""><i class="fa fa-facebook"></i></a>
-						<a href=""><i class="fa fa-youtube"></i></a>
+					<div class="copyright_social">
+						<i class="fa fa-linkedin"></i>
+						<i class="fa fa-facebook"></i>
+						<i class="fa fa-youtube"></i>
 					</div>
-					</div>
-					
+				</div>
 				
 			</div>
 		</div>

@@ -333,14 +333,13 @@ background: #093363 !important;
 	font-size: 20px;
 	padding: 7px 10px;
 	border-radius: 5px;
-	color: #fff;
-	margin-right:10px;
+	color: #fff
 }
 .copyright_social .fa-facebook {
 	background: #3b5998
 }
 .copyright_social .fa-youtube {
-	background: #cd201f
+	background: #3b5998
 }
 .copyright_social .fa-linkedin {
 	background: #0077b5

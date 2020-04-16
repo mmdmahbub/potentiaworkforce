@@ -243,9 +243,9 @@
 					</div>
 					<div class="col-md-6">
 						<div class="copyright_social">
-						<a href=""><i class="fa fa-linkedin"></i></a>
-						<a href=""><i class="fa fa-facebook"></i></a>
-						<a href=""><i class="fa fa-youtube"></i></a>
+						<i class="fa fa-linkedin"></i>
+						<i class="fa fa-facebook"></i>
+						<i class="fa fa-youtube"></i>
 					</div>
 					</div>
 					

@@ -127,7 +127,7 @@ a , a:hover{
 .active_menu a {
 	color: #28a6e0 !important;
 }
-.active_menu a::after, .main_menu  li:hover a::after {
+.active_menu a::after, li:hover a::after {
 	position: absolute;
 	left: 0;
 	width: 100%;
@@ -317,33 +317,6 @@ background: #093363 !important;
   content: "|";
   padding: ;
   padding: 0px 5px;
-}
-.footer_area.devider {
-	padding: 45px 0px;
-}
-.conpyright_area.devider {
-	padding: 45px 0px;
-	background: #f4f6f7;
-}
-
-.copyright_social {
-	text-align: right
-}
-.copyright_social i {
-	font-size: 20px;
-	padding: 7px 10px;
-	border-radius: 5px;
-	color: #fff;
-	margin-right:10px;
-}
-.copyright_social .fa-facebook {
-	background: #3b5998
-}
-.copyright_social .fa-youtube {
-	background: #cd201f
-}
-.copyright_social .fa-linkedin {
-	background: #0077b5
 }
 @media only screen and (max-width:767px){
 	.display_table_cell.width_10 {

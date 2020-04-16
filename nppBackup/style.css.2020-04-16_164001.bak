@@ -334,7 +334,7 @@ background: #093363 !important;
 	padding: 7px 10px;
 	border-radius: 5px;
 	color: #fff;
-	margin-right:10px;
+	margin-right: 5px;
 }
 .copyright_social .fa-facebook {
 	background: #3b5998
