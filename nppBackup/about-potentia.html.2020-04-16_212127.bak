@@ -25,7 +25,7 @@
 				<div class="display_table_cell width_10">
 					
 						<div class="logo">
-							<a href="index.html">
+							<a href="">
 								<img src="assets/images/Potentia-100.png" alt="" />
 							</a>
 							<span class="mobile_menu_bar"><i class="fa fa-bars"></i></span>
@@ -35,17 +35,17 @@
 				<div class="display_table_cell width_90">
 					<nav class="main_menu">
 						<ul>
-							<li class="active_menu"><a href="index.html">Home</a></li>
-							<li class="slide">
+							<li class=""><a href="">Home</a></li>
+							<li class="active_menu">
 								<a href="about-potentia.html">Abput Potentia <span class="desktop_caret"><i class="fa fa-angle-down"></i></span></a>
 								<ul class="inner-menu">
-									<li><a href="about-potentia.html">Core Values</a></li>
-									<li><a href="about-potentia.html">The Potentia Difference</a></li>
-									<li><a href="about-potentia.html">Ladership</a></li>
+									<li><a href="about-potentia.html#core-values">Core Values</a></li>
+									<li><a href="about-potentia.html#potentia-difference">The Potentia Difference</a></li>
+									<li><a href="about-potentia.html#leadership">Ladership</a></li>
 								</ul>
 							</li>
 							<li>
-								<a href="spectrum-services.html">Potentia STARS<span class="desktop_caret"><i class="fa fa-angle-down"></i></span></a>
+								<a href="">Potentia STARS<span class="desktop_caret"><i class="fa fa-angle-down"></i></span></a>
 								<ul class="inner-menu">
 									<li><a href="">STARS Service Model</a></li>
 									<li><a href="">Success Stories</a></li>
@@ -53,7 +53,7 @@
 								</ul>
 							</li>
 							<li>
-								<a href="tech-services.html">Potentia Projects<span class="desktop_caret"><i class="fa fa-angle-down"></i></span></a>
+								<a href="">Potentia Projects<span class="desktop_caret"><i class="fa fa-angle-down"></i></span></a>
 								<ul class="inner-menu">
 									<li><a href="">Disciplines</a></li>
 									<li><a href="">Services</a></li>
@@ -75,14 +75,12 @@
 			</div>
 		</div>
 	</div>
-	<div class="hero_area devider">
+	<div class="hero_area devider inside_hero">
 		<div class="cs_container">
 			<div class="display_table_cell">
 				<div class="hero_text">
-					 Potentia helps employers to build their own  <br/>
-					 21st century workforce  –  engaged, productive,<br/>
-					loyal and neurodiverse  –  through innovative    <br/>
-					programs, diverse resources and smart technology. 
+					<h1>About Potentia</h1>
+					<h2>The word Potentia is defined in Latin as power or force</h3>
 				</div>
 			</div>
 		</div>

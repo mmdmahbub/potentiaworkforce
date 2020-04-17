@@ -25,7 +25,7 @@
 				<div class="display_table_cell width_10">
 					
 						<div class="logo">
-							<a href="index.html">
+							<a href="">
 								<img src="assets/images/Potentia-100.png" alt="" />
 							</a>
 							<span class="mobile_menu_bar"><i class="fa fa-bars"></i></span>
@@ -35,17 +35,17 @@
 				<div class="display_table_cell width_90">
 					<nav class="main_menu">
 						<ul>
-							<li class="index.h"><a href="">Home</a></li>
+							<li class=""><a href="">Home</a></li>
 							<li class="active_menu">
 								<a href="about-potentia.html">Abput Potentia <span class="desktop_caret"><i class="fa fa-angle-down"></i></span></a>
 								<ul class="inner-menu">
-									<li><a href="about-potentia.html#core_values">Core Values</a></li>
-									<li><a href="about-potentia.html#potentia_difference">The Potentia Difference</a></li>
+									<li><a href="about-potentia.html#core-values">Core Values</a></li>
+									<li><a href="about-potentia.html#potentia-difference">The Potentia Difference</a></li>
 									<li><a href="about-potentia.html#leadership">Ladership</a></li>
 								</ul>
 							</li>
 							<li>
-								<a href="spectrum-services.html">Potentia STARS<span class="desktop_caret"><i class="fa fa-angle-down"></i></span></a>
+								<a href="">Potentia STARS<span class="desktop_caret"><i class="fa fa-angle-down"></i></span></a>
 								<ul class="inner-menu">
 									<li><a href="">STARS Service Model</a></li>
 									<li><a href="">Success Stories</a></li>
@@ -53,7 +53,7 @@
 								</ul>
 							</li>
 							<li>
-								<a href="spectrum-services.html">Potentia Projects<span class="desktop_caret"><i class="fa fa-angle-down"></i></span></a>
+								<a href="">Potentia Projects<span class="desktop_caret"><i class="fa fa-angle-down"></i></span></a>
 								<ul class="inner-menu">
 									<li><a href="">Disciplines</a></li>
 									<li><a href="">Services</a></li>
@@ -87,7 +87,7 @@
 	</div>
 
 	
-	<div class="core_values devider" id="core_values">
+	<div class="core_values devider">
 		<div class="container">
 			<h1 class="big_header">CORE VALUES</h1>
 			<div class="core_text">
@@ -99,7 +99,7 @@
 	</div>
 	
 	
-	<div class=" POTENTIA_DIFFERENCE devider" id="potentia_difference">
+	<div class=" POTENTIA_DIFFERENCE devider">
 		<div class="container">
 			<div class="diff_POTENTIA">
 				<h1 class="big_header">CORE VALUES</h1>
@@ -153,66 +153,8 @@ The problems we seek to address are as follows:</div>
 					</div>
 			</div>
 			
-			<div class="about_company" id="leadership">
-				<div class="ceo_face">
-					<img src="assets/images/withbriangendro-223x300.png" alt="" />
-					<h1 class="big_header">
-							CEO
-					</h1>
-					<p>Jeff Miller has spent more than two decades in leadership roles in the human capital industry. He was President of a $350M recruitment firm, Cenergy Partners, which provided over 2,000 engineers and field workers to industries including Energy, Aerospace, Manufacturing and Technology.  Jeff had full responsibility for day-to-day operations of this international firm, reporting to the Board of Directors, and successfully completed four acquisitions during his tenure.</p>
-					<p>Jeff was also a Sr. Vice President for KBR, an $8B EPC where he built and ran the firm’s fastest growing division.  He served as Vice President, Americas for NES, a global recruitment firm, where he built and led an international team responsible for record-setting results. Earlier in his career, Jeff was Division President for Exxova, an Atlanta-based technology consultancy where he built and led the firm’s largest division in providing innovative recruitment and business intelligence solutions to the healthcare industry.</p>
-					
-					<p>Jeff has launched and led organizations, divisions in teams in the 20 largest markets in North America, as well as in Europe, Asia and Australia.</p>
-					<p>A native of the Boston area, Jeff remains a loyal Red Sox fan and highly limited former athlete.  He lives in the Houston area with his wife Samantha, and son Charlie – an awesomely cool teenager on the autism spectrum.</p>
-					<div>
-						<a href="#" class="about_btn">Letter From CEO</a>
-					</div>
-					
-					<img src="assets/images/5130-1-210x300.png.jpg" alt="" />
-					<h1 class="big_header">
-							CIO 
-					</h1>
-					<p>Shawn Fry has spent the last two decades building and running highly successful technology firms. He founded and led Prevalent Health, a healthcare analytics and medical billing platform sold to private equity in 2019. He is the former CIO of Renaissance Hospitals and has a comprehensive technology background including systems and software architecture, information security and compliance for major corporations, government entities, hospitals and healthcare providers. Shawn discovered he was autistic a decade ago and is dedicated to helping others on the spectrum to live their best lives. He lives with his family in the Greater Houston area.</p>
-					
-					<h1 class="big_header">
-						Advisory Board
-					</h1>
-					<p>The Potentia Advisory Board is comprised of educators and therapists who have dedicated their professional lives in support of the ASD community. Together, they have decades of experience with autism and related conditions. They include:</p>
-					<br />
-					<div class="col_md_6">
-						<p> Chris Nooney Manager Goldwater Bank <br/>
-
-								Craig Amazeen Founder/CEO DFND, Inc.<br/>
-
-								Dr. Dorothea Lerman, Ph.D., Director, Center for Autism & Developmental Disabilities University of Houston, Clear Lake<br/>
-
-								Gary Brooks CFO Partner Aventine Hill<br/>
-
-								Jane Borochoff Founder/Executive Director HEART Program<br/>
-
-								Jennifer Dantzler Founder/Executive Director Including Kids<br/>
-
-								Patrick Marshall Founder Birdseye Perspectives<br/>
-								</p>
-					</div>
-					<div class="col_md_6" style="margin-right: 0px;">
-						<p> Michael Szafron Advisor Cemvita<br/>
-
-						Michele Joseph Gateway Academy Head of School<br/>
-
-						Paul Franzetti Founder Franzetti Law<br/>
-
-						Phillip Cannon PE Investor<br/>
-
-						Rick Miller Founder/CEO Being Chief<br/>
-
-						Scott Adams Executive Director Advance Houston<br/>
-
-						Pete Stofle Director Workboard<br/>
-						</p>
-					</div>
-					
-				</div>
+			<div class="about_company">
+				
 			</div>
 			
 		</div>

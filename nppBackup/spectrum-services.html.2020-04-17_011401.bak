@@ -35,7 +35,7 @@
 				<div class="display_table_cell width_90">
 					<nav class="main_menu">
 						<ul>
-							<li class="index.h"><a href="">Home</a></li>
+							<li class=""><a href="">Home</a></li>
 							<li class="active_menu">
 								<a href="about-potentia.html">Abput Potentia <span class="desktop_caret"><i class="fa fa-angle-down"></i></span></a>
 								<ul class="inner-menu">
@@ -45,7 +45,7 @@
 								</ul>
 							</li>
 							<li>
-								<a href="spectrum-services.html">Potentia STARS<span class="desktop_caret"><i class="fa fa-angle-down"></i></span></a>
+								<a href="">Potentia STARS<span class="desktop_caret"><i class="fa fa-angle-down"></i></span></a>
 								<ul class="inner-menu">
 									<li><a href="">STARS Service Model</a></li>
 									<li><a href="">Success Stories</a></li>
@@ -53,7 +53,7 @@
 								</ul>
 							</li>
 							<li>
-								<a href="spectrum-services.html">Potentia Projects<span class="desktop_caret"><i class="fa fa-angle-down"></i></span></a>
+								<a href="">Potentia Projects<span class="desktop_caret"><i class="fa fa-angle-down"></i></span></a>
 								<ul class="inner-menu">
 									<li><a href="">Disciplines</a></li>
 									<li><a href="">Services</a></li>

@@ -366,7 +366,7 @@ background: #093363 !important;
 	margin-top: 70px;
 }
 
-.hero_area.about_inside {
+.hero_area.inside_hero {
 	background: url("assets/images/slide-potentia-about.jpg");
 	background-attachment: fixed;
 	background-position: center;

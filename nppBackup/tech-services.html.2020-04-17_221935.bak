@@ -35,13 +35,13 @@
 				<div class="display_table_cell width_90">
 					<nav class="main_menu">
 						<ul>
-							<li class="active_menu"><a href="index.html">Home</a></li>
-							<li class="slide">
+							<li class=""><a href="index.html">Home</a></li>
+							<li class="active_menu">
 								<a href="about-potentia.html">Abput Potentia <span class="desktop_caret"><i class="fa fa-angle-down"></i></span></a>
 								<ul class="inner-menu">
-									<li><a href="about-potentia.html">Core Values</a></li>
-									<li><a href="about-potentia.html">The Potentia Difference</a></li>
-									<li><a href="about-potentia.html">Ladership</a></li>
+									<li><a href="about-potentia.html#core_values">Core Values</a></li>
+									<li><a href="about-potentia.html#potentia_difference">The Potentia Difference</a></li>
+									<li><a href="about-potentia.html#leadership">Ladership</a></li>
 								</ul>
 							</li>
 							<li>
@@ -53,7 +53,7 @@
 								</ul>
 							</li>
 							<li>
-								<a href="tech-services.html">Potentia Projects<span class="desktop_caret"><i class="fa fa-angle-down"></i></span></a>
+								<a href="">Potentia Projects<span class="desktop_caret"><i class="fa fa-angle-down"></i></span></a>
 								<ul class="inner-menu">
 									<li><a href="">Disciplines</a></li>
 									<li><a href="">Services</a></li>
@@ -75,130 +75,147 @@
 			</div>
 		</div>
 	</div>
-	<div class="hero_area devider">
+	<div class="hero_area devider  sectrum">
 		<div class="cs_container">
 			<div class="display_table_cell">
 				<div class="hero_text">
-					 Potentia helps employers to build their own  <br/>
-					 21st century workforce  –  engaged, productive,<br/>
-					loyal and neurodiverse  –  through innovative    <br/>
-					programs, diverse resources and smart technology. 
+					<h1>Potentia Projects</h1>
 				</div>
 			</div>
 		</div>
 	</div>
-	<div class="stats_area devider">
-		<div class="cs_container">
-			<div class="row">
-				<div class="col-md-4 col-md-offset-2">
-					<a href="">
-						<div class="stats_inside">
-							<div class="stats_header">
-								<span class="stats_icon"><i class="fa fa-star"></i></span>
-								<h3>Potentia STARS</h3>
-							</div>
-							<div class="stats_text">
-								Potentia coaches leading employers to <br/>
-								leverage autistic workers and programs  <br/>
-								successfully.<br/>
-								
-							</div>
-							<a href="">Learn More</a>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-4">
-					<a href="">
-						<div class="stats_inside">
-							<div class="stats_header">
-								<span class="stats_icon"><i class="fa fa-star"></i></span>
-								<h3>POTENTIA PROJECTS</h3>
-							</div>
-							<div class="stats_text">
-								Potentia supports organizations and
-								individuals working on the leading-edge
-								of today’s most exciting IT trends.
-								
-							</div>
-							<a href="">Learn More</a>
-						</div>
-					</a>
-				</div>
-			</div>
-			<div class="row" style="margin-top: 50px;">
-				<div class="col-md-4 col-md-offset-2">
-					<a href="">
-						<div class="stats_inside">
-							<div class="stats_header">
-								<span class="stats_icon"><i class="fa fa-star"></i></span>
-								<h3>BENEFITS</h3>
-							</div>
-							<div class="stats_text">
-								Employers utilizing autistic workers
-								report lower turnover, higher productivity
-								and increased innovation.
-								
-							</div>
-							<a href="">Learn More</a>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-4">
-					<a href="">
-						<div class="stats_inside">
-							<div class="stats_header">
-								<span class="stats_icon"><i class="fa fa-star"></i></span>
-								<h3> CORE VALUES</h3>
-							</div>
-							<div class="stats_text">
-								Potentia was founded on principles of
-								Innovation, Inspiration, Inclusion and
-								Integrity.
-								
-							</div>
-							<a href="">Learn More</a>
-						</div>
-					</a>
-				</div>
-			</div>
-			
-			<div class="row text-center  margin_top_100 ">
-				<a href="" class="main_btn">Search Careers</a>
-			</div>
 
-		</div>
-	</div>
-	<div class="benifit_area devider" >
-		<div class="cs_container">
-			<h1 class="big_header">Potentia Benefits</h1>
-			
-			<div class="col-md-4 col-md-offset-2">
-				<div class="benfit_inisde">
-					<h2>Employer Impact</h2>
-					<ul>
-						<li><i class="fa fa-angle-right"></i> Lower turnover</li>
-						<li><i class="fa fa-angle-right"></i> Higher productivity</li>
-						<li><i class="fa fa-angle-right"></i> Improved employee engagement</li>
-						<li><i class="fa fa-angle-right"></i> Enhanced corporate culture</li>
-						<li><i class="fa fa-angle-right"></i> More skilled management team</li>
-						<li><i class="fa fa-angle-right"></i> Enhanced reputation</li>
-						<li><i class="fa fa-angle-right"></i> Tax Incentives</li>
-						<li><i class="fa fa-angle-right"></i> Access to Government Contracts</li>
-					</ul>
-				</div>
-			</div>
-			<div class="col-md-4">
-				<div class="benfit_inisde">
-					<h2>Societal Impact</h2>
-					<ul>
-						<li><i class="fa fa-angle-right"></i>Improved health and self-esteem among fast growing population</li>
-						<li><i class="fa fa-angle-right"></i> Greater independence placing less burden on families</li>
-						<li><i class="fa fa-angle-right"></i> Moves talented workers from reliance on support services to contributing taxpayers</li>
-					</ul>
-				</div>
+	
+	<div class="core_values devider" id="core_values" style="background: #f4f6f7">
+		<div class="container">
+			<h1 class="big_header">Disciplines</h1>
+			<div class="core_text">
+				<p>
+				Potentia brings together decades of experience in workforce optimization and recruitment, along with experts in the field of Autism, to provide employers with a roadmap of how to interview, onboard and manage a neurodiverse workforce.  Companies who have made investments in this area report lower turnover, higher productivity and improved employee engagement.  We are focused on those outcomes for our clients and committed to a better future for our applicants through Potentia STARS (Spectrum Training, Recruitment and Support).</p>
+				<img src="assets/images/5301.png" alt="" />
 			</div>
 		</div>
 	</div>
+	
+	<div class="banner_text">
+	
+		Neurodiversity is at the core of the Think Differently cause and mission. 
+	</div>
+
+	<div class=" POTENTIA_DIFFERENCE devider" id="potentia_difference">
+		<div class="container">
+			<h1 class="big_header">Neurodiversity Success Stories </h1>
+			<table class="table table-striped">
+				<thead>
+					<th>Company</th>
+					<th>Scope</th>
+					<th>Roles</th>
+					<th>Metric</th>
+					<th>Outcome</th>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Global Software Company</td>
+						<td>150+ FTEs in over 12 countries</td>
+						<td>IT<br/>
+						Engineering<br/>
+						Project Mgmt</td>
+						<td>94%</td>
+						<td>Retention rate over 5 years </td>
+					</tr>
+					<tr>
+						<td>International Financial Services <br/>Firm</td>
+						<td>115+ FTEs in 7 countries</td>
+						<td>
+								Personal <br/> bankers <br/>
+								Data scientists<br/>
+								Fraud analysts <br/>
+						
+						</td>
+						<td>90%</td>
+						<td>Increase in productivity in first 6 months</td>
+					</tr>
+					<tr>
+						<td>Leading Global Consultancy</td>
+						<td>90 FTEs in 2 locations</td>
+						<td>
+						Data analytics <br/>
+						Cybersecurity 
+						<td>2X</td>
+						<td>New skill acquisition at Twice the rate of peer group </td>
+					</tr>
+					
+				</tbody>
+			</table>
+			<br />
+			<h1 class="big_header">Roadmap </h1>
+			<p style="font-size: 18px;">In consultation with our Advisory Board and other Autism at Work Employers, Potentia offers this highly customizable Roadmap to help develop your Neurodiversity program.</p>
+			<div class="custom_row">
+				 <div class="flip-card">
+					  <div class="flip-card-inner">
+						<div class="flip-card-front">
+							<div class="fliP-ins">
+								<div class="flip_box_text">
+										Planning
+									</div>
+							</div>
+						</div>
+						<div class="flip-card-back">
+							<div class="fliP-ins">
+								<div class="flip_box_text">
+										<h1>Planning</h1>
+										<p>Potentia will work with you to set overall project goals.</p>
+								</div>
+							</div>
+						  
+						</div>
+					  </div>
+					</div> 
+					<div class="flip-card">
+					  <div class="flip-card-inner">
+						<div class="flip-card-front">
+							<div class="fliP-ins">
+								<div class="flip_box_text">
+										Business Case
+									</div>
+							</div>
+						</div>
+						<div class="flip-card-back">
+							<div class="fliP-ins">
+								<div class="flip_box_text">
+										<h1>Business Case</h1>
+										<p>We will help you to define ROI and key metrics.</p>
+								</div>
+							</div>
+						  
+						</div>
+					  </div>
+					</div> 
+					<div class="flip-card">
+					  <div class="flip-card-inner">
+						<div class="flip-card-front">
+							<div class="fliP-ins">
+								<div class="flip_box_text">
+										Resources & Models
+									</div>
+							</div>
+						</div>
+						<div class="flip-card-back" style="margin-right: 0px;" >
+							<div class="fliP-ins">
+								<div class="flip_box_text">
+										<h1>Resources & Models</h1>
+										<p>Potentia will help you determine available resources and employment models.</p>
+								</div>
+							</div>
+						  
+						</div>
+					  </div>
+					</div> 
+			</div>
+		</div>
+	</div>
+	
+	
 	<div class="footer_area devider">
 		<div class="cs_container">
 			<div class="extra_padding">

@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scallable=no-scale, initial-scale=1.0">
+	<title>Potentia</title>
+    <link rel="icon" href="Fevicon.png">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/animate.css">
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&family=Teko:wght@300;400;500;600;700&display=swap" rel="stylesheet"> 
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<div class="top_header devider">
+		<div class="cs_container">
+			<div class="top_text">
+				713.357.3312
+			</div>
+		</div>
+	</div>
+	<div class="header  ">
+		<div class="cs_container">
+			<div class="extra_padding">
+				<div class="display_table_cell width_10">
+					
+						<div class="logo">
+							<a href="">
+								<img src="assets/images/Potentia-100.png" alt="" />
+							</a>
+							<span class="mobile_menu_bar"><i class="fa fa-bars"></i></span>
+						</div>
+					
+				</div>
+				<div class="display_table_cell width_90">
+					<nav class="main_menu">
+						<ul>
+							<li class=""><a href="">Home</a></li>
+							<li class="active_menu">
+								<a href="about-potentia.html">Abput Potentia <span class="desktop_caret"><i class="fa fa-angle-down"></i></span></a>
+								<ul class="inner-menu">
+									<li><a href="about-potentia.html#core-values">Core Values</a></li>
+									<li><a href="about-potentia.html#potentia-difference">The Potentia Difference</a></li>
+									<li><a href="about-potentia.html#leadership">Ladership</a></li>
+								</ul>
+							</li>
+							<li>
+								<a href="">Potentia STARS<span class="desktop_caret"><i class="fa fa-angle-down"></i></span></a>
+								<ul class="inner-menu">
+									<li><a href="">STARS Service Model</a></li>
+									<li><a href="">Success Stories</a></li>
+									<li><a href="">Roadmap</a></li>
+								</ul>
+							</li>
+							<li>
+								<a href="">Potentia Projects<span class="desktop_caret"><i class="fa fa-angle-down"></i></span></a>
+								<ul class="inner-menu">
+									<li><a href="">Disciplines</a></li>
+									<li><a href="">Services</a></li>
+								</ul>
+							</li>
+							<li>
+								<a href="">Search Careers <span class="desktop_caret"><i class="fa fa-angle-down"></i></span></a>
+								<ul class="inner-menu">
+									<li><a href="">Apply</a></li>
+								</ul>
+							</li>
+							<li>
+								<a href="">Media <span class="desktop_caret"><i class="fa fa-angle-down"></i></span></a>
+							</li>
+							<li class="contact_btn"><a href="">Contact</a> </li>
+						</ul>
+					</nav>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="hero_area devider inside_hero">
+		<div class="cs_container">
+			<div class="display_table_cell">
+				<div class="hero_text">
+					<h1>About Potentia</h1>
+					<h3>The word <i>Potentia</i> is defined in Latin as <i>power</i> or force</h3>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	
+	<div class="core_values devider">
+		<div class="container">
+			<h1 class="big_header">CORE VALUES</h1>
+			<div class="core_text">
+				<p>
+				<div class="text-center" style="font-weight: 600">Potentia was founded on, and runs its business daily, based on Four Core Values.</div>
+<span style="font-weight: 600"> > Innovation – </span> We look for new and creative ways to deliver value to our clients, applicants and partners.  <span style="font-weight: 600"> > Inspiration – </span>We believe that involving yourself in pursuits greater than yourself is essential to a purposeful life and career. <span style="font-weight: 600"> > Inclusion – </span>We believe, and the data shows, that companies that draw from and support the widest swaths of humanity simply run better. <span style="font-weight: 600"> > Integrity – </span> We strive to always align our words and our actions and to practice positive, solution-oriented communication.</p>
+			</div>
+		</div>
+	</div>
+	
+	
+	<div class=" POTENTIA_DIFFERENCE devider">
+		<div class="container">
+			<div class="diff">
+				<h1 class="big_header">CORE VALUES</h1>
+				<div class="core_text">
+						<p>
+						<div class="text-center" style="font-weight: 600">Potentia was founded on, and runs its business daily, based on Four Core Values.</div>
+					<span style="font-weight: 600"> > Innovation – </span> We look for new and creative ways to deliver value to our clients, applicants and partners.  <span style="font-weight: 600"> > Inspiration – </span>We believe that involving yourself in pursuits greater than yourself is essential to a purposeful life and career. <span style="font-weight: 600"> > Inclusion – </span>We believe, and the data shows, that companies that draw from and support the widest swaths of humanity simply run better. <span style="font-weight: 600"> > Integrity – </span> We strive to always align our words and our actions and to practice positive, solution-oriented communication.</p>
+					</div>
+			</div>
+			
+		</div>
+	</div>
+	
+	
+	<div class="footer_area devider">
+		<div class="cs_container">
+			<div class="extra_padding">
+				<div class="display_table_cell width_10_f">
+					<div class="footer_logo">
+						<a href=""><img src="assets/images/Potentia-100.png" alt="" /></a>
+					</div>
+				</div>
+				<div class="display_table_cell width_90_f">
+					<div class="footer_menu">
+						<ul>
+							<li ><a href="">Home</a></li>
+							<li>
+								<a href="">Abput Potentia</a>
+							</li>
+							<li>
+								<a href="">Potentia STARS</a>
+							</li>
+							<li>
+								<a href="">Potentia Projects</a>
+								
+							</li>
+							<li>
+								<a href="">Search Careers</a>
+							</li>
+							<li>
+								<a href="">Media </a>
+							</li>
+							<li class=""><a href="">Contact</a> </li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="conpyright_area devider" >
+		<div class="cs_container">
+			<div class="extra_padding">
+					<div class="col-md-6">
+							<div class="copyright_text">
+							Copyright  &copy;  2020 P0tentia   |   All Rights Reserved   |   Powered by Potentia	
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div class="copyright_social">
+						<a href=""><i class="fa fa-linkedin"></i></a>
+						<a href=""><i class="fa fa-facebook"></i></a>
+						<a href=""><i class="fa fa-youtube"></i></a>
+					</div>
+					</div>
+					
+				
+			</div>
+		</div>
+	</div>
+
+   <!---- Javascript(jquery) CDN --->
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+   <script type="text/javascript" src="assets/js/bootstrap.min.js"  ></script>
+    <script src="https://use.fontawesome.com/98956dc61d.js"></script>
+<!---- Wow js Script ---->
+   <script type="text/javascript" src="assets/js/wow.min.js"  ></script>
+	<script type="text/javascript" src="assets/js/custom.js"  ></script>
+
+
+	</body> 
+</html>
+<!--  Footer Area  end -->
