@@ -1,0 +1,746 @@
+body {
+	
+    font-family: 'Teko', sans-serif;
+
+    font-family: 'Roboto', sans-serif;
+
+}
+a , a:hover{
+	text-decoration : none;
+}
+.devider {
+	width: 100%;
+	float:left;
+	overflow: hidden;
+}
+.cs_container {
+	float: left;
+	width: 100%;
+	padding: 0px 30px;
+	display: table;
+}
+.extra_padding {
+	padding-right: 2%;
+	padding-left: 2%;
+}
+.display_table_cell {
+	display: table-cell;
+	vertical-align: middle;
+}
+.header {
+	float: left;
+	width: 100%;
+}
+.display_table_cell.width_10 {
+	width: 10%;
+}
+.display_table_cell.width_90 {
+	width: 90%;
+	text-align: right;
+}
+.mobile_menu_bar {
+	display: none;
+}
+.top_header.devider {
+	text-align: right;
+	padding: 12px 0px;
+	border: 1px solid #ddd;
+}
+.top_text {
+	font-size: 13px;
+	font-family: "Roboto";
+}
+.logo {
+	margin: 25px 0px;
+}
+.logo img {
+	width: 170px;
+}
+.logo img {
+	width: 170px;
+}
+.main_menu ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.main_menu li {
+	display: inline-block;
+	margin-right: 30px;
+	position: relative;
+	height: 50px;
+	
+}
+.inner-menu {
+	position: absolute;
+	z-index: 99999;
+	width: 130px;
+	background: #fff;
+	top: 50px;
+	border-top: 4px solid #28a6e0;
+	display: none
+}
+.inner-menu a::after {
+	position: ;
+	height: 0px !important;
+}
+.inner-menu li {
+	height: inherit
+}
+.inner-menu li a {
+	padding: 5px 10px;
+	display: block;
+	text-align: left;
+	font-family: "Roboto";
+	color: ;
+	font-size: 15px;
+}
+
+.main_menu li a {
+	font-size: 22px;
+	font-family: 'Teko';
+	letter-spacing: 1px;
+	color: #093363;
+}
+.inner-menu li:hover  {
+	background: #F4F6F7
+}
+.inner-menu li a {
+	font-size: 14px;
+	display: block;
+	text-align: left;
+	font-family: "Roboto";
+	color: #33333;
+	
+}
+.inner-menu li {
+	margin-right: 0;
+	display: block;
+	padding: 5px;
+}
+.main_menu li:hover  .inner-menu{
+	display: block
+}
+.main_menu li a:hover {
+	color: #28a6e0
+}
+.active_menu a {
+	color: #28a6e0 !important;
+}
+.active_menu a::after, .main_menu  li:hover a::after {
+	position: absolute;
+	left: 0;
+	width: 100%;
+	height: 4px;
+	background: #28a6e0;
+	content: "";
+	top: ;
+	top: -30px;
+}
+.contact_btn a::after {
+	height: 0px !important;
+}
+
+.main_menu li a i {
+	margin-left: 6px;
+}
+.contact_btn {
+	margin: 0px !important;
+}
+
+.contact_btn a {
+	background: #28a6e0;
+	padding: 12px 30px;
+	border-radius: 25px;
+	x: ;
+	color: #fff !important;
+	font-family: "Roboto" !important;
+	font-weight: 600;
+	font-size: 16px !important;
+}
+.contact_btn a:hover {
+background: #093363 !important;
+}
+
+.hero_area {
+	background: url("assets/images/hp-banner-blue-wash_.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+ .hero_text {
+	transition: none 0s ease 0s;
+	text-align: inherit;
+	line-height: 64px;
+	border-width: 0px;
+	margin: 0px;
+	padding: 0px;
+	letter-spacing: 0px;
+	font-weight: 700;
+	font-size: 44px;
+	color: #fff;
+}
+.hero_area.devider .display_table_cell {
+	height: 500px;
+	text-align: center
+}
+
+.stats_icon {
+
+}
+.stats_icon i {
+
+}
+.stats_area.devider {
+	float: left;
+	width: 100%;
+	padding: 50px 0px;
+}
+.stats_header i {
+	font-size: 30px;
+	background: #28a6e0;
+	color: #FFF;
+	padding: 20px;
+	border-radius: 50%;
+	border: 7px solid #333;
+}
+.stats_icon {
+	float: left;
+	margin-right: 10px;
+}
+.stats_header h3 {
+	float: left;
+	color: #333;
+	font-family: "Teko";
+}
+.stats_header {
+	float: left;
+	width: 100%;
+}
+.stats_text {
+	font-size: 17px;
+	line-height: 28px;
+	color: #666;
+}
+.stats_inside a {
+	margin-top: 10px;
+	display: block;
+	font-weight: ;
+}
+
+.main_btn {
+	display: inline-block;
+	padding: 13px 30px;
+	background: #28a6e0;
+	margin: 50px 0px;
+	color: #fff;
+	border-radius: 25px;
+	font-weight: 600;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+.main_btn:hover {
+	background: #333;
+	color: #fff;
+}
+.benifit_area.devider {
+	background: #093363;
+	color: #fff;
+	padding: 70px 0px;
+}
+.big_header {
+	text-align: center;
+	font-size: 55px;
+	font-weight: 400;
+	font-family: "Teko";
+	margin-bottom: 30px;
+	margin-top: 0;
+}
+.benfit_inisde h2 {
+	font-size: 30px;
+	font-family: "teko";
+	margin-top: 0px;
+	margin-bottom: 30px;
+}
+.benfit_inisde ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.benfit_inisde li {
+	margin-bottom: 10px;
+	line-height: 22px;
+}
+.benfit_inisde ul li i {
+	padding: 5px 9px;
+	background: #03a9f4;
+	color: #fff;
+	border-radius: 50%;
+	font-weight: 700;
+	float: left;
+	margin-right: 10px;
+}
+.benfit_inisde li {
+	margin-bottom: 10px;
+}
+.display_table_cell.width_90_f {
+	width: 90%;
+}
+.display_table_cell.width_10_f {
+	width: 10%;
+}
+
+.display_table_cell.width_10_f {
+  width: 10%;
+}
+.display_table_cell.width_90_f {
+  width: 90%;
+}
+.footer_menu {
+  text-align: right;
+}
+.footer_menu ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.footer_menu ul li {
+  display: inline-block;
+}
+.footer_menu ul li a {
+  font-size: 16px;
+  color: #666;
+  position: relative;
+  padding-right: 15px;
+}
+.footer_menu ul li a:after {
+  position: absolute;
+  content: "|";
+  padding: ;
+  padding: 0px 5px;
+}
+.footer_area.devider {
+	padding: 45px 0px;
+}
+.conpyright_area.devider {
+	padding: 45px 0px;
+	background: #f4f6f7;
+}
+
+.copyright_social {
+	text-align: right
+}
+.copyright_social i {
+	font-size: 20px;
+	padding: 7px 10px;
+	border-radius: 5px;
+	color: #fff;
+	margin-right:10px;
+}
+.copyright_social .fa-facebook {
+	background: #3b5998
+}
+.copyright_social .fa-youtube {
+	background: #cd201f
+}
+.copyright_social .fa-linkedin {
+	background: #0077b5
+}
+.copyright_text {
+	color: rgba(40,166,224,0.77);
+}
+.header.sticky {
+	position: fixed;
+	background: #fff;
+	left: 0;
+	top: 0;
+	z-index: 999;
+	border-bottom: 1px solid #eee;
+}
+.footer_menu li:last-child a::after {
+	content: "";
+}
+.footer_menu li a:hover {
+	color: #333 
+}
+.margin_top_100 {
+	margin-top: 70px;
+}
+
+.hero_area.about_inside {
+	background: url("assets/images/slide-potentia-about.jpg");
+	background-attachment: fixed;
+	background-position: center;
+}
+.hero_area.sectrum{
+	background: url("assets/images/asd.jpg") !important;
+	background-attachment: fixed;
+	background-position: center;
+}
+.hero_area.sectrum .display_table_cell {
+	height: 300px;
+}
+.hero_area.inside_hero .display_table_cell {
+	height: 300px;
+}
+.hero_area.devider.inside_hero .hero_text h1 {
+	font-size: 55px;
+	font-weight: 400;
+}
+.active_menu .inner-menu a {
+	color: #333 !important;
+}
+.hero_area.devider.inside_hero .hero_text h1, h3 {
+	display: ;
+	font-family: "Teko";
+}
+.core_values.devider {
+	padding: 100px 0px;
+}
+.POTENTIA_DIFFERENCE {
+}
+.diff_POTENTIA {
+	background: #f4f6f7;
+	padding: 80px 0px;
+	float: left;
+	width: 100%;
+}
+
+.core_text {
+	font-size: 17px;
+	font-weight: 400;
+	color: #7a7a7a;
+	font-family: "Roboto", Sans-serif;
+	line-height: 30px;
+}
+.single_diff{
+	width: calc(33.33% - ( ( 4% + 4% ) * 0.3333 ) );
+	float: left;
+	border: 6px solid #333;
+	padding: 15px;
+	color: #7a7a7a;
+	height: 130px;
+	margin-right: 4%;
+}
+.single_diff_4 {
+	float: left;
+	border: 6px solid #333;
+	padding: 15px;
+	color: #7a7a7a;
+	height: 210px;
+	margin-right: 4%;
+	width: calc(25% - ( ( 4% + 4% + 4% ) * 0.25 ) );
+}
+.major .single_diff_4:nth-child(4) {
+	margin-right: 0px;
+}
+.major .single_diff:nth-child(3) {
+	margin-right: 0px;
+}
+.about_company {
+	float: left;
+	width: 100%;
+	background: #1C2F74;
+	padding: 20px;
+	color: #fff;
+}
+.about_company p {
+	font-size: 16px;
+	line-height: 30px;
+}
+.about_btn {
+	display: inline-block;
+	padding: 10px 30px;
+	background: #fff;
+	margin: 10px 0px;
+	font-size: 16px;
+	color: #333;
+	margin-bottom: 80px;
+}
+.col_md_6 {
+	float: left;
+	width: 49%;
+	margin-right: 2%;
+	border: 2px solid #fff;
+	outline: 5px solid #666;
+	padding: 15px;
+	height: 500px;
+}
+.col_md_6 p {
+	font-size: 15px;
+	line-height: 50px;
+	font-weight: 600;
+}
+.banner_text {
+	float: left;
+	width: 100%;
+	text-align: center;
+	background: #093363;
+	color: #fff;
+	font-family: "Teko";
+	font-size: 28px;
+	padding: 30px 0px;
+	letter-spacing: 1px;
+	margin-bottom: 50px;
+}
+.table.table-striped  {
+	text-align: center;
+}
+.table.table-striped th {
+	border: 4px solid #dcdcdc !important;
+	padding: 20px 20px 5px 20px !important;
+	background: #093363 !important;
+	color: #fff;
+	text-align: center;
+}
+.table.table-striped td {
+	border: 4px solid #dcdcdc;
+	padding: 10px 20px;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 30px;
+	text-align: left;
+}
+.footer_area.devider {
+	padding: 45px 0px;
+	border-top: 1px solid #eee;
+	margin-top: 50px;
+}
+ /* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
+.custom_row.rrr .flip-card {
+	background-color: transparent;
+	width: 30%;
+	height: 350px;
+	border: 1px solid #f1f1f1;
+	perspective: 1000px;
+	margin-right: 30px;
+	float: left;
+}
+/* This container is needed to position the front and back side */
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.3s;
+  transform-style: preserve-3d;
+}
+
+/* Do an horizontal flip when you move the mouse over the flip box container */
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+/* Position the front and back side */
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden; /* Safari */
+  backface-visibility: hidden;
+}
+
+/* Style the front side (fallback if image is missing) */
+.flip-card-front {
+  color: #fff;
+  border-radius: 5px;
+}
+
+/* Style the back side */
+.flip-card-back {
+  background-color: rgb(9, 51, 99);
+  color: white;
+  transform: rotateY(180deg);
+  border-radius: 5px;
+} 
+.flip-card-front {
+	background-color: rgb(3, 169, 244);
+	color: white;
+	border-radius: 5px;
+}
+.flip_box_text p {
+	font-size: 18px;
+	font-family: "Roboto";
+	margin-top: 30px;
+}
+.custom_row {
+	padding: 30px 0px;
+}
+.fliP-ins {
+	display: table;
+	width: 100%;
+	height: 100%;
+}
+.flip_box_text {
+	display: table-cell;
+	vertical-align: middle;
+	font-size: 40px;
+	font-family: "Teko";
+}
+.col_slide {
+	width: 215px;
+	float: left;
+}
+
+.col_text {
+  float: left;
+  text-align: left;
+  color: #093363;
+  font-weight: 600;
+  font-size: 16px;
+}
+.col_text ul {
+  padding-left: 60px;
+  margin: 0;
+}
+.margin_top_100{
+	margin-top: 100px;
+	float: left;
+	width: 100%;
+}
+.custom_row .flip-card  {
+	width: 17%;
+}
+.search_jobs {
+	padding: 100px 0px
+}
+.media.devider {
+	padding: 70px 0px;
+}
+.single_post h2 {
+	font-family: "teko";
+	font-size: 50px;
+	color: #28a6e0;
+	font-weight: 400;
+}
+.single_post .post_auth {
+	color: #28a6e0;
+}
+.post_auth i {
+	font-size: 18px;
+	margin-right: 10px;
+	display: inline -b;
+}
+.desc_ {
+	font-size: 17px;
+	padding: 20px 0px;
+	line-height: 30px;
+}
+.single_post {
+	float: left;
+	width: 100%;
+	margin-bottom: 20px;
+}
+.single_post img {
+	width: 100%;
+}
+.posts  {
+	list-style: none;
+	padding: 0px;
+	
+}
+.left_slide_fixed {
+	position: fixed;
+	width: 300px;
+	background: #093363;
+	height: 100vh;
+	z-index: 999999;
+	color: #fff;
+	padding: 30px 30px;
+	transition: .5s all;
+}
+.fusion-sliding-bar-position-left.fusion-sliding-bar-toggle-triangle .fusion-sb-toggle {
+	border-top: 36px solid #363839;
+	border-right: 36px solid transparent;
+}
+.fusion-sliding-bar-toggle-triangle .fusion-sb-toggle-wrapper {
+	width: 36px;
+	height: 36px;
+}
+@media only screen and (max-width:767px){
+	.display_table_cell.width_10 {
+		width: 100% ;
+		display: block !important;
+	}
+	.display_table_cell.width_90 {
+	display: none;
+	width: 100%;
+}
+.logo {
+	position: relative;
+}
+.mobile_menu_bar {
+	float: right;
+	display: inline-block;
+	position: absolute;
+	right: 10px;
+	top: 50%;
+	font-size: 21px;
+}
+
+.main_menu ul li {
+  display: block;
+  width: 100%;
+  text-align: left;
+  margin-right: 0;
+}
+.main_menu ul li a:after {
+  height: 0px;
+}
+
+.main_menu ul li {
+  display: block;
+  width: 100%;
+  text-align: left;
+  height: inherit;
+  margin-right: 0;
+}
+.main_menu ul li a:after {
+  height: 0px;
+}
+li {
+}
+.inner-menu {
+  width: 100%;
+  position: static;
+  float: left;
+  border-top: 0px;
+}
+.desktop_caret {
+  display: none;
+}
+.contact_btn a {
+	background: inherit;
+	color: #333 !important;
+	padding: 0;
+	font-family: "Teko" !important;
+	font-weight: ;
+}
+.contact_btn a:hover {
+	background: inherit !important;
+
+}
+.hero_area.devider .display_table_cell {
+	height: 400px;
+	text-align: center;
+}
+.hero_text {
+	line-height: 24px;
+	font-size: 16px;
+}
+.display_table_cell.width_90_f {
+	display: block;
+}
+.footer_menu {
+	text-align: center;
+	width: 100%;
+	margin-top: 20px;
+}
+.benfit_inisde {
+	margin-top: 30px;
+}
+.stats_header {
+	float: left;
+	width: 100%;
+	margin-bottom: 15px;
+}
+}

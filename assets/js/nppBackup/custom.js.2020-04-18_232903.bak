@@ -1,0 +1,51 @@
+//initial script
+$(document).ready(function(){
+	//Nav toggle
+	$(".mobile_hamburger_menu").click(function(){$(".right_side").toggleClass("show");});
+	$(".id_1").click(function(){$("#id_1").toggleClass("show");});
+	$(".id_2").click(function(){$("#id_2").toggleClass("show");});
+	$(".id_3").click(function(){$("#id_3").toggleClass("show");});
+	$(".id_4").click(function(){$("#id_4").toggleClass("show");});
+	$(".id_5").click(function(){$("#id_5").toggleClass("show");});
+	$(".slide_icon").click(function(){$(".slide_insode").toggleClass("show");});
+
+	
+	
+	
+});
+
+
+
+//Sticky navbar script
+$(window).scroll(function() {
+	if ($(this).scrollTop() > 2){  
+	$('.header').addClass("sticky");
+	}
+	else{
+	$('.header').removeClass("sticky");
+	}
+});
+$(document).ready(function(){
+  // Add smooth scrolling to all links
+  $(".slide a").on('click', function(event) {
+
+    // Make sure this.hash has a value before overriding default behavior
+    if (this.hash !== "") {
+      // Prevent default anchor click behavior
+      event.preventDefault();
+
+      // Store hash
+      var hash = this.hash;
+
+      // Using jQuery's animate() method to add smooth page scroll
+      // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 800, function(){
+   
+        // Add hash (#) to URL when done scrolling (default click behavior)
+        window.location.hash = hash;
+      });
+    } // End if
+  });
+});

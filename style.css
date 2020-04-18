@@ -506,7 +506,7 @@ background: #093363 !important;
 	margin-top: 50px;
 }
  /* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
-.flip-card {
+.custom_row.rrr .flip-card {
 	background-color: transparent;
 	width: 30%;
 	height: 350px;
@@ -575,6 +575,146 @@ background: #093363 !important;
 	vertical-align: middle;
 	font-size: 40px;
 	font-family: "Teko";
+}
+.col_slide {
+	width: 215px;
+	float: left;
+}
+
+.col_text {
+  float: left;
+  text-align: left;
+  color: #093363;
+  font-weight: 600;
+  font-size: 16px;
+}
+.col_text ul {
+  padding-left: 60px;
+  margin: 0;
+}
+.margin_top_100{
+	margin-top: 100px;
+	float: left;
+	width: 100%;
+}
+.custom_row .flip-card  {
+	width: 17%;
+}
+.search_jobs {
+	padding: 100px 0px
+}
+.media.devider {
+	padding: 70px 0px;
+}
+.single_post h2 {
+	font-family: "teko";
+	font-size: 50px;
+	color: #28a6e0;
+	font-weight: 400;
+}
+.single_post .post_auth {
+	color: #28a6e0;
+}
+.post_auth i {
+	font-size: 18px;
+	margin-right: 10px;
+	display: inline -b;
+}
+.desc_ {
+	font-size: 17px;
+	padding: 20px 0px;
+	line-height: 30px;
+}
+.single_post {
+	float: left;
+	width: 100%;
+	margin-bottom: 20px;
+}
+.single_post img {
+	width: 100%;
+}
+.posts  {
+	list-style: none;
+	padding: 0px;
+	
+}
+.left_slide_fixed {
+	position: fixed;
+	width: 300px;
+	background: #093363;
+	height: 100vh;
+	z-index: 999999;
+	color: #fff;
+	left: -300px;
+	transition: 0.5s all;
+}
+.slide_icon i {
+	margin-left: 5px;
+	margin-top: 5px;
+}
+.slide_icon {
+	position: absolute;
+	top: 0;
+	right: -36px;
+	width: 36px;
+	height: 36px;
+	background: url("assets/images/rect.png");
+}
+.left_slide_fixed h2 {
+	font-size: 20px;
+	font-weight: 400;
+	color: #ccc;
+	font-family: "Roboto";
+	text-transform: uppercase;
+}
+.left_slide_fixed p {
+	font-size: 15px;
+	color: #cccccc;
+	line-height: 30px;
+	margin: 30px 0px;
+}
+
+.recent_posts ul {
+  padding: 0px;
+  margin: 0;
+  list-style: none;
+}
+.recent_posts ul li a {
+  font-size: 16px;
+  color: #03a9f4;
+}
+a {
+}
+.recent_posts ul li a i {
+  padding-right: 10px;
+}
+.recent_posts ul li {
+  margin-bottom: 10px;
+  display: block;
+}
+.slide_insode {
+	overflow-y: scroll !important;
+	height: 100vh;
+	margin-bottom: 50px;
+	padding: 30px 30px;
+	overflow-y: hidden;
+}
+.dsfdsfdsfds{
+	color: #fff;
+	margin: 30px 0px;
+}
+
+.recent_posts.dsfdsfdsfds i {
+  width: ;
+  color: ;
+}
+.recent_posts.dsfdsfdsfds ul li a {
+  color: #ddd;
+  font-size: 14px;
+}
+.left_slide_fixed.slideOP {
+	left: 0px;
+	transition: 0.5s all;
 }
 @media only screen and (max-width:767px){
 	.display_table_cell.width_10 {

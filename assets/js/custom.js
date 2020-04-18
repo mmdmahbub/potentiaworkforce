@@ -7,6 +7,7 @@ $(document).ready(function(){
 	$(".id_3").click(function(){$("#id_3").toggleClass("show");});
 	$(".id_4").click(function(){$("#id_4").toggleClass("show");});
 	$(".id_5").click(function(){$("#id_5").toggleClass("show");});
+	$(".slide_icon").click(function(){$(".left_slide_fixed").toggleClass("slideOP");});
 
 	
 	
