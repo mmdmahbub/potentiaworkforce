@@ -97,7 +97,7 @@
 							<li>
 								<a href="media.html">Media <span class="desktop_caret"><i class="fa fa-angle-down"></i></span></a>
 							</li>
-							<li class="contact_btn"><a href="contact.html">Contact</a> </li>
+							<li class="contact_btn"><a href="">Contact</a> </li>
 						</ul>
 					</nav>
 				</div>

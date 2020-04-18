@@ -730,8 +730,6 @@ a {
   background: #eee;
   border: ;
   border-radius: 50%;
-  color: #28a6e0
-  
 }
 .cotact_form h2 {
   font-family: "teko";

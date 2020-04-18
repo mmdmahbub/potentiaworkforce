@@ -721,26 +721,6 @@ a {
 	left: 0px;
 	transition: 0.5s all;
 }
-
-.col-md-3.text-center {
-}
-.cotact_form i {
-  font-size: 30px;
-  padding: 39px;
-  background: #eee;
-  border: ;
-  border-radius: 50%;
-  color: #28a6e0
-  
-}
-.cotact_form h2 {
-  font-family: "teko";
-}
-.cotact_form p {
-  font-size: 18px;
-  color: #666;
-  line-height: ;
-}
 @media only screen and (max-width:767px){
 	.display_table_cell.width_10 {
 		width: 100% ;
