@@ -66,7 +66,7 @@
 						<ul>
 							<li class="index.h"><a href="">Home</a></li>
 							<li class="active_menu">
-								<a href="about-potentia.html">About Potentia <span class="desktop_caret"><i class="fa fa-angle-down"></i></span></a>
+								<a href="about-potentia.html">Abput Potentia <span class="desktop_caret"><i class="fa fa-angle-down"></i></span></a>
 								<ul class="inner-menu">
 									<li><a href="about-potentia.html#core_values">Core Values</a></li>
 									<li><a href="about-potentia.html#potentia_difference">The Potentia Difference</a></li>
@@ -272,7 +272,7 @@ Management of IT resources: Leadership and coaching of IT staff which includes t
 						<ul>
 							<li ><a href="">Home</a></li>
 							<li>
-								<a href="">About Potentia</a>
+								<a href="">Abput Potentia</a>
 							</li>
 							<li>
 								<a href="">Potentia STARS</a>

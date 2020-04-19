@@ -12,7 +12,8 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<div class="left_slide_fixed">
+<div class="slide_sidebar">
+	<div class="left_slide_fixed">
 	<div class="slide_insode">
 		<span class="slide_icon"><i class="fa fa-plus"></i></span>
 
@@ -41,6 +42,8 @@
 	</div>
 	</div>
 </div>
+</div>
+
 	<div class="top_header devider">
 		<div class="cs_container">
 			<div class="top_text">
@@ -66,7 +69,7 @@
 						<ul>
 							<li class="index.h"><a href="">Home</a></li>
 							<li class="active_menu">
-								<a href="about-potentia.html">About Potentia <span class="desktop_caret"><i class="fa fa-angle-down"></i></span></a>
+								<a href="about-potentia.html">Abput Potentia <span class="desktop_caret"><i class="fa fa-angle-down"></i></span></a>
 								<ul class="inner-menu">
 									<li><a href="about-potentia.html#core_values">Core Values</a></li>
 									<li><a href="about-potentia.html#potentia_difference">The Potentia Difference</a></li>
@@ -105,158 +108,59 @@
 		</div>
 	</div>
 	<div class="hero_area devider inside_hero">
-		<div class="cs_container">
+		<div class="container">
 			<div class="display_table_cell">
 				<div class="hero_text">
-					<h1 style="text-align: left;">Search Careers</h1>
+					<h1 style="text-align: left;">Media</h1>
 				</div>
 			</div>
 		</div>
 	</div>
-
-<div class="search_jobs devider">
-		<div class="contianer">
-		<div class="col-md-10 col-md-offset-1">
-			<a href=""><img src="assets/images/Potentia-100.png" alt="" style="width: 200px"/></a>
-		</div>
-		<div class="col-md-10 col-md-offset-1">
-		
-			<div class="col-md-4">
+	<div class="media devider">
+		<div class="container">
+			<h1 class="big_header" style="text-align: left;">BLOG</h1>
 			
-				<div class="panel panel-default">
-					<div class="panel-heading">Filter & Options</div>
-					<div class="panel-body">
-							<button class="btn btn-primary">Clear Filters</button>
-							<hr />
-							<form>
-								  <div class="form-group">
-									<label for="exampleInputEmail1">ZipCode</label>
-									<input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
-								  </div>
-								  <div class="form-group">
-									<label for="exampleInputPassword1">Distance (miles)</label>
-									<select name="" id="" class="form-control">
-										<option value="1">15 Miles</option>
-										<option value="1">25 Miles</option>
-										<option value="1">35 Miles</option>
-										<option value="1">45 Miles</option>
-									</select>
-								  </div>
-								  <hr />
-								  <div class="form-group">
-									<label for="exampleInputEmail1">Category</label>
-									<div class="checkbox">
-									  <label>
-										<input type="checkbox" value="">
-										Engineering (1)
-									  </label>
-									</div>
-									<div class="checkbox">
-									  <label>
-										<input type="checkbox" value="">
-										Healthcare (1)
-									  </label>
-									</div>
-									<div class="checkbox">
-									  <label>
-										<input type="checkbox" value="">
-										T (6)
-									  </label>
-									</div>
-									<div class="checkbox">
-									  <label>
-										<input type="checkbox" value="">
-										Engineering (1)
-									  </label>
-									</div>
-								  </div>
-								</form>
-					  </div>
-				</div>
-			</div>
-			<div class="col-md-8">
-				
-				<div class="panel panel-default">
-					<div class="panel-heading">Results (10 jobs)</div>
-					<div class="panel-body">
-							
-							<form>
-								  <div class="form-group">
-									<input type="text" class="form-control" placeholder="Quick Search">
-								  </div>
-								  <div class="row">
-									<div class="col-md-9">
-									<nav aria-label="Page navigation">
-									  <ul class="pagination">
-										<li>
-										  <a href="#" aria-label="Previous">
-											<span aria-hidden="true">&laquo;</span>
-										  </a>
-										</li>
-										<li class="active"><a href="#">1</a></li>
-										<li>
-										  <a href="#" aria-label="Next">
-											<span aria-hidden="true">&raquo;</span>
-										  </a>
-										</li>
-									  </ul>
-									</nav>
-								  </div>
-								  <div class="col-md-3">
-										  <div class="form-group">
-											<label for="exampleInputPassword1">Distance (miles)</label>
-											<select name="" id="" class="form-control">
-												<option value="1">15 Miles</option>
-												<option value="1">25 Miles</option>
-												<option value="1">35 Miles</option>
-												<option value="1">45 Miles</option>
-											</select>
-										  </div>
-										  
-								  </div>
-								  </div>
-								  <hr />
-								  
-								</form>
+			<ul class="posts">
+				<li>
+					<a href="#" style="color: #333">
+						<div class="single_post">
+							<img src="assets/images/pexels-photo-392018-940x400.jpeg" alt="" />
+							<h2>7 Tips For Creating an Autism Friendly Work Environment</h2>
+							<div class="post_auth">
+								<i class="fa fa-user"></i> <i class="fa fa-calendar"></i> March 5, 2020 <i class="fa fa-folder"></i> Autism
+							</div>
+							<div class="desc_">
+								Increasingly, companies are looking to hire more workers on the autism spectrum, and for good reason. Lower turnover, attention to detail, strong analytical skills and innovation are among a few of the reasons why. Companies like Potentia help employers to ...
+								<br/>
+								<div class="pull-right">
+									<a href="btn btn-default ">Read More</a>
+								</div>
 								
-					  </div>
-					  <div class="list-group">
-						  <div  class="list-group-item">
-							<h4>Director, IT</h4>
-							<div class="dsfs">
-								<i class="fa fa-check"></i> IT <br/>
-								<i class="fa fa-map-marker"></i> Houston, TX<br/>
-								<i class="fa fa-clock-o"></i> Posted 02/03/2020 <br/><br/>
-								<p>Responsible for the strategic direction and daily execution of the company’s computing infrastructure and applications, projects and resources.
-
-Management of IT resources: Leadership and coaching of IT staff which includes the following: Desktop Support technician, Systems Administrator (email, phone, network), Programmer, Business Systems Analyst.
-
-</p><br/>
 							</div>
-						  </div>
-						  
-					  </div>
-					    <div class="list-group">
-						  <div  class="list-group-item">
-							<h4>Director, IT</h4>
-							<div class="dsfs">
-								<i class="fa fa-check"></i> IT <br/>
-								<i class="fa fa-map-marker"></i> Houston, TX<br/>
-								<i class="fa fa-clock-o"></i> Posted 02/03/2020 <br/><br/>
-								<p>Responsible for the strategic direction and daily execution of the company’s computing infrastructure and applications, projects and resources.
-
-Management of IT resources: Leadership and coaching of IT staff which includes the following: Desktop Support technician, Systems Administrator (email, phone, network), Programmer, Business Systems Analyst.
-
-</p><br/>
-							</div>
-						  </div>
-						  
-					  </div>
-				</div>
-			</div>
+							
+						</div>
+					</a>
+				</li>
+			</ul>
+			<ul class="video">
+				<li>
+					<div class="col-md-6">
+						<div class="single_video">
+							
+							<p>t’s funny how one look from your child can change your perspective. Here in part of an interview with KNLY Houston, CEO Jeff Miller talks about how an emotional day with Charlie became the inspiration that led to Potentia. #changeyourperspective #inspiration #purpose #mission #findyourpassion</p>
+						</div>
+					</div>
+					<div class="col-md-6"></div>
+				</li>
+			</ul>
+			
+	
 		</div>
+		
+				
+			
 	</div>
-</div>
+	</div>
 
 	
 	<div class="footer_area devider">
@@ -272,7 +176,7 @@ Management of IT resources: Leadership and coaching of IT staff which includes t
 						<ul>
 							<li ><a href="">Home</a></li>
 							<li>
-								<a href="">About Potentia</a>
+								<a href="">Abput Potentia</a>
 							</li>
 							<li>
 								<a href="">Potentia STARS</a>
